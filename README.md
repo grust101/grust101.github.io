@@ -8,4 +8,4 @@ I first learned about GitHub and the open-source community while attending Dev B
 In my spare time, you can find me practicing throwing on a ceramics wheel, making sushi at home, or you can’t find me because I am off traveling somewhere new!
 
 
-add something here
+
