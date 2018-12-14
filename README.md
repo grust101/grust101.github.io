@@ -1,5 +1,5 @@
 # About me
-I’m [Georgia](https://www.linkedin.com/in/georgia-rust/) or [grust101](https://github.com/grust101), a Solutions Engineer at GitHub. ![Image of Georgia](https://avatars3.githubusercontent.com/u/18128948?s=50)
+I’m [Georgia](https://www.linkedin.com/in/georgia-rust/) or [grust101](https://github.com/grust101), a Solutions Engineer at GitHub. ![Image of Georgia](https://avatars3.githubusercontent.com/u/18128948?s=50) 1
 
 I am a vivacious learner obsessed with effective communication and clean design. I get up and go to work excited to guide GitHub's customers through architecture and implementation processes and ensure that GitHub is implemented and customized to fit each customer's needs and requirements.
 
@@ -8,4 +8,4 @@ I first learned about GitHub and the open-source community while attending Dev B
 In my spare time, you can find me practicing throwing on a ceramics wheel, making sushi at home, or you can’t find me because I am off traveling somewhere new!
 
 
-add something here
+
